@@ -1,0 +1,302 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    .parent-c{
+    display: flex;
+	justify-content:space-around;
+
+    height: 350px; 
+			   
+	 
+	 background-color:#D3D3D3;
+	  margin-right:0px;
+       padding:50px 
+     }
+	 .parent-c1{
+    display: flex;
+	justify-content:space-around;
+
+    height: 300px; 
+			   
+	 
+	 background-color:#b4b4b4;
+	  margin-right:0px;
+       padding:50px 
+     }
+		   .icon{
+	   
+			   width: 400px;
+                height: 400px; 
+			   
+			   
+		   }
+		   .icon1{
+	         align-items: center;
+			   width: 300px;
+                height: 300px; 
+			   
+			   
+		   }
+		   .btn{
+			   width: 100px;
+                height:40px;
+               background-color:red;
+			   border-radius: 10px;
+                }
+				.btn1{
+			   width: 100px;
+                height:40px;
+               background-color:red;
+			   border-radius: 10px;
+			   margin-left:130px;
+
+                  
+                }
+				
+				.child{
+					
+					row-gap:150px;
+				}
+				.child1{
+					justify-content: center;
+					margin-left:10px;
+					
+					row-gap:150px;
+				}
+			   
+			   .text1{
+				  
+              font-size: 10px 
+				   
+			   }
+			   .text2{
+				  
+              font-size: 50px 
+				   
+			   }
+			   .text3{
+				  
+               margin-left:80px;
+
+				   
+			   }
+			   .text7{
+				    margin-top:40px;
+				  margin-left:600px;
+				  
+                 font-size: 20px 
+			  
+				   
+			   }
+			    .text6{
+				   margin-top:20px;
+				   padding:50px 
+				   margin-left:100px;
+              font-size: 10px 
+				   
+			   }
+			   
+			   
+			   
+			   
+		 .section-1{
+			  
+                height:50px;
+	
+			 
+			 margin-left:500px;
+		 }
+		 .icon2{
+			 display:flex;
+			    width: 200px;
+                height: 100px; 
+			 }
+		   .icon3{
+	         margin:50px;
+            position: relative;
+           text-align: center;
+		     height: 300px; 
+			  
+          
+              }
+
+		   }
+		    .t1{
+				
+				display:flex;
+				margin-left:500px;
+			  
+		 }
+		 .text7{
+				   
+				  margin-left:600px;
+				  
+                 font-size: 20px 
+			  
+				   
+			   }
+			   .text8{
+				   
+				  position: absolute;
+            top: 1400px;
+            left: 500px;
+		  font-size: 40px 
+			  
+				   
+			   }
+			   .banner-title{
+				height:100vh;
+                 padding-top: 40px;
+				margin-top: 60px;
+		
+		background-image:url("f8.png");
+				
+				text-align: center;
+				   
+			   }
+			  
+			  
+   
+
+
+     .imageClass{ 
+    display:inline;  
+    list-style-type:none; 
+	margin-left:50px;
+	
+     }
+	 .banner-contenner{
+		
+		 display: flex;
+		 padding-top: 20px;
+		 text-align: center;
+		 align-items: center;
+		 
+		 }
+		 #t1{
+			width:500px;
+			height: 50px;
+			margin-left:400px;
+
+		 }
+		 #t2{
+            background-color: red;
+			width:90px;
+			height: 50px;
+			border-radius: 10px;
+			color: white;
+
+		 }
+
+
+
+		 .banner-contenner2{
+			
+			align-items: center;
+			margin-top:80px ;
+			height:80vh;
+			
+			background-color: black;
+		 }
+		 
+		 #t3{
+		
+			padding-top: 60px;
+			
+			width:100px;
+			height: 50px;
+			margin-left: 430px;
+			color:white;
+			
+			
+		 }
+		 #t4{
+			
+			width:440px;
+			height: 20px;
+			margin-left: 350px;
+			color:white;
+		
+			
+		 } #t5{
+			width:500px;
+			height: 30px;
+			margin-left: 400px;
+			color:white;
+			
+			
+		 } #t6{
+			width:500px;
+			height: 10px;
+			margin-left: 400px;
+			color:white;
+			
+			
+		 }
+		 .section-continer{
+        
+
+			background-color:#e3ebdb;
+	
+	
+		   }
+			.section-title{
+				text-align: center;
+				background-color:#e3ebdb;
+				 
+			}
+	   
+				 
+			  .images {
+				display:flex;
+				justify-content: space-around;
+				padding: 80px;
+				
+			   
+			   background-color:#e3ebdb ;
+				
+			}
+	  
+			.photo1 {
+				border-top-left-radius: 180px;
+				border-top-right-radius:180px;
+				width:250px;
+				
+				height: 200px;
+				background-color:rgb(25, 236, 138);
+			}
+			.photo2 {
+				border-top-left-radius: 180px;
+				border-top-right-radius:180px;
+				width:250px;
+				
+				height: 200px;
+				background-color: aqua;
+			}
+			.photo3 {
+				border-top-left-radius: 180px;
+				border-top-right-radius:180px;
+				width:250px;
+				
+				height: 200px;
+				background-color:rgb(0, 153, 255);
+			}
+			
+	  
+			.photo{
+	
+				margin-left:50px ;
+				margin-top:50px ;
+				width: 100px;
+				height: 100px;
+				
+			}
+			.t{
+			 margin-top: 80px;
+			margin-left: 50px ;
+			text-decoration: underline;
+	
+	
+			}
+  
